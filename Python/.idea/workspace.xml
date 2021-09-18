@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fbdceebe-b034-4c97-97e9-6667d5e79ae1" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Python" />
+  </component>
+  <component name="ProjectId" id="1a0WqyCD8if0w8zJB0GQ2YoNCX4" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager">
+    <configuration name="mass email" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mass email.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.mass email" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fbdceebe-b034-4c97-97e9-6667d5e79ae1" name="Default Changelist" comment="" />
+      <created>1585873185904</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585873185904</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="215" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1585881569418">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="361" y="215" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.800@0.0.1280.800" timestamp="1585881569418" />
+    <state width="1234" height="178" key="GridCell.Tab.0.bottom" timestamp="1585881832121">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1234" height="178" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1585881832121" />
+    <state width="1234" height="178" key="GridCell.Tab.0.center" timestamp="1585881832120">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1234" height="178" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1585881832120" />
+    <state width="1234" height="178" key="GridCell.Tab.0.left" timestamp="1585881832119">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1234" height="178" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1585881832119" />
+    <state width="1234" height="178" key="GridCell.Tab.0.right" timestamp="1585881832120">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1234" height="178" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1585881832120" />
+    <state x="0" y="0" key="SettingsEditor" timestamp="1585873591801">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="0" y="0" key="SettingsEditor/0.0.1280.800@0.0.1280.800" timestamp="1585873591801" />
+    <state x="231" y="0" width="838" height="1032" key="search.everywhere.popup" timestamp="1585882684590">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="231" y="0" width="838" height="1032" key="search.everywhere.popup/0.0.1280.800@0.0.1280.800" timestamp="1585882684590" />
+  </component>
+</project>

@@ -1,0 +1,3 @@
+[submodule "notomer.github.io"]
+	path = notomer.github.io
+	url = https://github.com/notomer/notomer.github.io.git
